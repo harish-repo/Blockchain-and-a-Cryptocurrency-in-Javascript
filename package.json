@@ -1,0 +1,28 @@
+{
+  "name": "blockchain-and-a-cryptocurrency-in-javascript",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/harish-repo/Blockchain-and-a-Cryptocurrency-in-Javascript.git"
+  },
+  "keywords": [
+    "blockchain",
+    "cryptocurrency",
+    "javascript",
+    "nodejs"
+  ],
+  "author": "Harish S",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/harish-repo/Blockchain-and-a-Cryptocurrency-in-Javascript/issues"
+  },
+  "homepage": "https://github.com/harish-repo/Blockchain-and-a-Cryptocurrency-in-Javascript#readme",
+  "devDependencies": {
+    "nodemon": "^1.18.8"
+  }
+}
